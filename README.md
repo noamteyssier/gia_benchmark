@@ -10,7 +10,7 @@ This was originally done using the following versions:
 gia == 0.1.16
 bedtools == 2.31.0
 bedops == 2.4.41
-GenomicRanges == 3.17
+GenomicRanges == 1.54.1
 ```
 
 ## Running the Benchmark
